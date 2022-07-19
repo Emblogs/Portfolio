@@ -1,6 +1,4 @@
-.home-header {
-    
-}
+/* .home-header { */
 
 .home-ul {
     list-style: none;
@@ -57,7 +55,7 @@ button:hover{
 
 .red{
     flex-direction: column;
-    background-color:lightblue;
+    background-color: cyan;
 }
 #first{
     display: flex;
@@ -124,15 +122,5 @@ button:hover{
 footer {
  display: flex;
  justify-content: center;
-}
-
-#center {
-    background-color: white;
-    width: 500px;
-}
-
-#top {
-    background-color: white;
-    width: 500px;
 }
 

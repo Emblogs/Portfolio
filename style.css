@@ -69,7 +69,6 @@ button:hover{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: white;
 
 }
 
@@ -115,3 +114,25 @@ button:hover{
     margin-bottom: 20px;
     margin-top: 20px;
 }
+
+.arms{
+    margin: 40px;
+    width: 30px;
+    height:30px;
+}
+
+footer {
+ display: flex;
+ justify-content: center;
+}
+
+#center {
+    background-color: white;
+    width: 500px;
+}
+
+#top {
+    background-color: white;
+    width: 500px;
+}
+

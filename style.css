@@ -86,9 +86,32 @@ button:hover{
     object-fit: cover;
 }
 
-#end{
+#fit{
     display: flex;
-    justify-content: center;
-    align-items: center;
+    flex-direction: column;
+    margin-left: 30px;
+    
 
+}
+
+.kit{
+    display:flex;
+}
+ 
+.fix{
+    display: flex;
+    
+}
+.heh{
+    margin-right: 20px;
+    background:purple;
+    color: white;
+    font-size: 18px;
+    font-weight: 900; 
+    border-radius: 16px;
+}
+
+.guns{
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
